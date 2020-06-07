@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../src/assets/logo.png" width="200px" style="margin: 150px 0" />
+    <img src="./src/assets/logo.png" width="200px" style="margin: 150px 0" />
 </p>
 
 # 🎥 Devflix
@@ -40,6 +40,7 @@ npm install
 
 Uma simples representação de como são usadas algumas tecnologias no Devflix.
 
+<img src="Doc/Doc-DevFlix.png" width="500px" style="margin: 350px 0" />
 
 A aplicação é desenvolvida com React Native, e através do axios utiliza-se da API do Youtube para exibir os vídeos e playlists que compõem o app.
 
@@ -49,9 +50,7 @@ Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
 <img src="https://avatars1.githubusercontent.com/u/58191082?s=460&v=4" width="100px"> | Walace Dilan | [walace268](https://github.com/walace268) | contato.walace.dilan@gmail.com
 
-## 🤝 Contribuindo
 
-Confira a página [CONTRIBUTING](./CONTRIBUTING-PT-BR.md) para ver os melhores locais para arquivar problemas, iniciar discussões e começar a contribuir
 
 ---
 
